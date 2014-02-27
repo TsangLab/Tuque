@@ -11,7 +11,7 @@
 
 
 
-Intended Audience: Advanced End Users, Science/Research
+*Intended Audience:* Advanced End Users, Science/Research
 
-Programming Language: Python
+*Programming Language:* Python
 
